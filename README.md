@@ -1,4 +1,1 @@
-puppet-ntp
-=================
-
-NTP Module for CCG private cloud compute nodes
+Deprecated, please use puppetlabs/ntp
